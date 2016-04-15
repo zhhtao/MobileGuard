@@ -1,5 +1,0 @@
-<?xml version="1.0" encoding="utf-8"?>
-<resources>
-    <!-- <string name="downloadUrl">http://221.237.67.96/info.json</string> -->
-    <string name="downloadUrl">http://192.168.56.1/info.json</string>
-</resources>
